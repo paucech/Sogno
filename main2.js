@@ -100,8 +100,6 @@ const fortuneQuotes = [
   "Mantenere i propri sogni vivi è il compito più difficile. (Anonimo)",
   "Chi non può sentire la musica ritiene pazzi quelli che danzano. (Friedrich Nietzsche)"
 ]
-function manu(){
-   let frase = Math.floor(Math.random() * fortuneQuotes.length)
-   document.getElementById('giorgia').innerText = fortuneQuotes[frase]
-}
-manu()
+
+let frase = Math.floor(Math.random() * fortuneQuotes.length)
+document.getElementById('giorgia').innerText = fortuneQuotes[frase]
