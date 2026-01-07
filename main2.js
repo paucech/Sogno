@@ -1,4 +1,4 @@
-const fortuneQuotesquotes = [
+const fortuneQuotes = [
   "Qualunque cosa tu possa fare o sognare di poter fare, incominciala. (Johann Wolfgang von Goethe)",
   "Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. (Eleanor Roosevelt)",
   "Fra vent’anni non sarete delusi dalle cose che avrete fatto, ma da quelle che non avrete fatto. (Mark Twain)",
